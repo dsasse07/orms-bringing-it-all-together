@@ -84,6 +84,5 @@ class Dog
     end
 end
 
-binding.pry
 0
 
